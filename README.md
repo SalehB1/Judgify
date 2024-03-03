@@ -41,7 +41,7 @@ To set up Judgify for your code competition, follow these steps:
 
 ## Contributing
 
-Judgify welcomes contributions from the community. If you'd like to add support for a new programming language or improve existing features, please check out the [contribution guidelines](CONTRIBUTING.md).
+Judgify welcomes contributions from the community. If you'd like to add support for a new programming language or improve existing features, feel free to contact me at (mailto:salehwork07@gmail.com).
 
 ## License
 
@@ -56,6 +56,6 @@ This Project is licensed under a
 
 ## Contact
 
-For any questions or inquiries, feel free to contact us at (mailto:salehwork07@gmail.com).
+For any questions or inquiries, feel free to contact me at (mailto:salehwork07@gmail.com).
 
 Happy coding with Judgify!
