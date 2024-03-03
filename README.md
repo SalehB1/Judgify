@@ -1,5 +1,5 @@
 # Judgify
-
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 Judgify is a powerful and versatile Universal Online Judge built on FastAPI. This modular system is designed for code competitions, supporting a wide range of programming languages. Its flexibility allows for easy integration of new language modules, making it a scalable solution for various coding environments.
 
 ## Features
@@ -43,9 +43,7 @@ Judgify welcomes contributions from the community. If you'd like to add support 
 
 ## License
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
+This Project is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
